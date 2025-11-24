@@ -113,3 +113,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "github"
+    name: "GitHub"
+  - id: "xiaoheihe"
+    name: "小黑盒"
